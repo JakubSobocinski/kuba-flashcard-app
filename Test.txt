@@ -2,3 +2,4 @@ Tekst
 
 Moja zmiana jest najlepsza
 
+Twoja zmiana nie jest najlepsza
